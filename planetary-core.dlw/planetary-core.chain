@@ -4,6 +4,6 @@ slug  : planetary-core
 seal  : 8f8600e7d4f219231f774035e81ca933be5293e69f5db481158fd39105e09876
 prev  : df241181f90e927224053834f7339e54dff52b3b2f4a84ff92184b70e2b2ec3f
 link  : 8d9ad9bc469dbc9c44826b9d8d5a071dd865d443fec1835b2caca648316ce233
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
